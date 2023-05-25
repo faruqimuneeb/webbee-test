@@ -1,3 +1,16 @@
+I forgot to add the final test file. here it is. Please cosider it as well.
+/d/xampp/php/php.exe artisan test
+Warning: TTY mode is not supported on Windows platform.
+
+   PASS  Tests\Feature\ExampleTest
+  ✓ warmup events
+  ✓ events
+  ✓ future events
+  ✓ menu
+
+  Tests:  4 passed
+  Time:   0.31s
+  
 Get started:
 
 - create your own repo (for example on www.github.com)
